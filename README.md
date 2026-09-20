@@ -135,18 +135,15 @@ The classification threshold should be determined according to the business's av
 
 ```text
 customer-churn-milestone-2/
-│
+├── .gitignore
+├── README.md
 ├── dataset/
 │   └── milestone-2-customer-churn.csv
-│
 ├── notebook/
 │   └── customer_churn_analysis.ipynb
-│
-├── presentation/
-│   └── presentation.pptx
-│
-└── README.md
-
+└── presentation/
+    └── presentation.pptx
+```
 
 ## Technologies and Libraries
 
