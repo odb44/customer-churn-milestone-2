@@ -146,3 +146,44 @@ customer-churn-milestone-2/
 │   └── presentation.pptx
 │
 └── README.md
+
+
+## Technologies and Libraries
+
+The analysis was developed using:
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- Jupyter Notebook
+
+---
+
+## How to Run
+
+1. Clone or download the repository.
+2. Open the `notebook` folder.
+3. Open the customer churn analysis notebook.
+4. Ensure the dataset is located in the `dataset` folder.
+5. Run the notebook cells in order.
+
+The notebook loads the dataset using the project-relative path:
+
+    data = pd.read_csv('../dataset/milestone-2-customer-churn.csv')
+
+---
+
+## Project Deliverables
+
+- Customer churn analysis notebook
+- Customer churn dataset
+- Presentation
+- Project documentation
+
+## Author
+
+**Oluwaseun Bamigbele**
+
+Customer Churn Prediction – Milestone 2
